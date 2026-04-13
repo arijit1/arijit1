@@ -1,12 +1,12 @@
 <h1 align="center">Arijit Sengupta</h1>
 
 <p align="center">
-  Building practical AI developer tools, agent workflows, and MCP experiments.
+  Building practical AI developer tools, agent workflows, and applied research projects.
 </p>
 
 <p align="center">
   <a href="https://github.com/arijit1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F766E&center=true&vCenter=true&width=720&lines=Open+source+builder+focused+on+AI+tooling;Working+on+LangGraph%2C+LangChain%2C+and+MCP;Shipping+useful+developer+tools+one+repo+at+a+time" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F766E&center=true&vCenter=true&width=720&lines=Open+source+builder+focused+on+AI+tooling;Working+on+LangGraph%2C+LangChain%2C+and+applied+AI;Shipping+useful+developer+tools+one+repo+at+a+time" alt="Typing intro" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 ## About Me
 
 - I build developer-focused tools around LLM workflows, orchestration, and local tooling.
-- My recent work explores LangGraph, LangChain, MCP servers, replayable agent testing, and practical AI automation.
+- My recent work explores LangGraph, LangChain, replayable agent testing, and practical AI automation.
 - I like projects that turn experimental AI ideas into something other developers can actually use.
 
 ---
@@ -30,7 +30,7 @@
 
 ```text
 Building    AI tooling for developer workflows
-Exploring   LangGraph, LangChain, MCP, local-first automation
+Exploring   LangGraph, LangChain, and local-first automation
 Shipping    Open-source utilities with clear docs and practical examples
 ```
 
@@ -45,7 +45,6 @@ Shipping    Open-source utilities with clear docs and practical examples
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logoColor=ffffff" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=graphql&logoColor=E10098" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-111827?style=for-the-badge&logoColor=ffffff" alt="Model Context Protocol" />
   <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=ffffff" alt="OpenAI" />
 </p>
 
@@ -56,8 +55,8 @@ Shipping    Open-source utilities with clear docs and practical examples
 ### [langgraph-cassette](https://github.com/arijit1/langgraph-cassette)
 Offline record-and-replay toolkit for LangGraph and LangChain LLM workflows. Built to make iteration faster, cheaper, and easier to debug.
 
-### [dummy-mcp-local-server](https://github.com/arijit1/dummy-mcp-local-server)
-A minimal local MCP server for learning, testing, and experimenting with Codex-compatible tool integrations.
+### [plant-biosignal](https://github.com/arijit1/plant-biosignal)
+An applied project exploring plant biosignal data and signal-driven experimentation through code, hardware-facing workflows, and analysis.
 
 ### [langchain-calculator-agent](https://github.com/arijit1/langchain-calculator-agent)
 An early practical agent project exploring tool use and LangChain-based orchestration patterns.
@@ -94,5 +93,5 @@ An early practical agent project exploring tool use and LangChain-based orchestr
 </p>
 
 <p align="center">
-  If you are working on AI tooling, agent systems, or MCP experiments, I am always happy to connect and learn from what you are building.
+  If you are working on AI tooling, agent systems, or applied experimentation, I am always happy to connect and learn from what you are building.
 </p>
