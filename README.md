@@ -58,6 +58,9 @@ Offline record-and-replay toolkit for LangGraph and LangChain LLM workflows. Bui
 ### [plant-biosignal](https://github.com/arijit1/plant-biosignal)
 An applied project exploring plant biosignal data and signal-driven experimentation through code, hardware-facing workflows, and analysis.
 
+### [fuzzy-eureka](https://github.com/arijit1/fuzzy-eureka)
+A collection of paper-inspired AI experiments spanning LLM safety, RAG cache systems, and adaptive vector search prototypes.
+
 ### [langchain-calculator-agent](https://github.com/arijit1/langchain-calculator-agent)
 An early practical agent project exploring tool use and LangChain-based orchestration patterns.
 
