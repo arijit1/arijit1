@@ -53,9 +53,6 @@ A cross-domain experiment around plant biosignals that blends curiosity, softwar
 ### [fuzzy-eureka](https://github.com/arijit1/fuzzy-eureka)
 A sandbox for paper-inspired implementations across LLM safety, RAG caching, vector search, and other research-led ideas.
 
-### [langchain-calculator-agent](https://github.com/arijit1/langchain-calculator-agent)
-An early agent project that reflects my long-running interest in practical tool use and AI-assisted workflows.
-
 ---
 
 ## Writing
