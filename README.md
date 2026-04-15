@@ -20,9 +20,9 @@
 
 ## About Me
 
-- I build developer-focused tools around LLM workflows, orchestration, and local tooling.
-- My recent work explores LangGraph, LangChain, replayable agent testing, and practical AI automation.
-- I like projects that turn experimental AI ideas into something other developers can actually use.
+- I keep building across different domains instead of staying inside just one lane, with a focus on turning ideas into working products quickly.
+- I enjoy product thinking, MVP execution, and using AI to solve practical problems where the priority is the outcome, not the language or stack.
+- My work currently moves through agent systems, RAG, AI tooling, research demos, open source, and hardware-backed experimentation.
 
 ---
 
