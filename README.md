@@ -1,18 +1,18 @@
 <h1 align="center">Arijit Sengupta</h1>
 
 <p align="center">
-  Exploring AI, building AI-powered platforms, and experimenting across industries without staying in one lane.
+  Engineer exploring AI, building products, and experimenting across domains without staying in one lane.
 </p>
 
 <p align="center">
   <a href="https://github.com/arijit1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F766E&center=true&vCenter=true&width=820&lines=Exploring+AI+and+building+AI-powered+platforms;Interested+in+consumer+AI+and+real-world+products;From+software+to+plant+biosignals%2C+I+keep+trying+new+things" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F766E&center=true&vCenter=true&width=860&lines=Building+AI-powered+platforms+and+fast+MVPs;Interested+in+consumer+AI+and+real-world+products;From+agent+systems+to+plant+biosignals%2C+I+keep+trying+new+things" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/arijit1?tab=followers"><img src="https://img.shields.io/github/followers/arijit1?style=for-the-badge&color=0f766e&labelColor=0f172a" alt="GitHub followers" /></a>
-  <a href="https://github.com/arijit1?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-AI%20Tooling-14b8a6?style=for-the-badge&labelColor=0f172a" alt="Open source AI tooling" /></a>
+  <a href="https://github.com/arijit1?tab=repositories"><img src="https://img.shields.io/badge/Product%20Thinking-MVP%20Builder-14b8a6?style=for-the-badge&labelColor=0f172a" alt="Product thinking and MVP builder" /></a>
   <a href="https://www.linkedin.com/in/arijit-sengupta-/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&labelColor=0f172a" alt="LinkedIn" /></a>
   <a href="https://medium.com/@sengupta.arijit84/build-your-first-local-mcp-server-and-connect-it-with-codex-068238b4f2cf"><img src="https://img.shields.io/badge/Medium-Read%20Article-181818?style=for-the-badge&logo=medium&logoColor=white" alt="Medium article" /></a>
 </p>
@@ -21,56 +21,49 @@
 
 ## About Me
 
-- I keep building across different domains instead of staying inside just one lane, with a focus on turning ideas into working products quickly.
-- I enjoy product thinking, MVP execution, and using AI to solve practical problems where the priority is the outcome, not the language or stack.
-- My work currently moves through agent systems, RAG, AI tooling, research demos, open source, and hardware-backed experimentation.
+- I like solving problems first and choosing the stack later, which is why my work moves across software products, AI systems, open source, and hands-on experiments.
+- I am most energized by product thinking, MVP execution, and turning rough ideas into something real that people can use, test, or react to quickly.
+- My recent work spans agent systems, RAG, AI-powered platforms, research-driven demos, and unusual experiments like capturing plant biosignals.
 
 ---
 
-## Current Focus
+## What I Am Building
 
-```text
-Building    AI tooling for developer workflows
-Exploring   LangGraph, LangChain, and local-first automation
-Shipping    Open-source utilities with clear docs and practical examples
-```
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logoColor=ffffff" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=graphql&logoColor=E10098" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=ffffff" alt="OpenAI" />
-</p>
+- AI-powered platforms with a product mindset, especially ideas that can become useful consumer experiences
+- Agent and RAG systems that are practical, observable, and easier to iterate on
+- Fast MVPs and prototypes that help validate new directions quickly
+- Cross-domain projects where software meets experimentation, research, or hardware-backed signals
 
 ---
 
-## Featured Projects
+## Selected Work
+
+### [Nova AI](https://nova-ai-llm-pbot.web.app/)
+A personal digital assistant direction that reflects my interest in user-facing AI products, not just backend experiments.
+
+### [SideTripAI](https://www.linkedin.com/posts/arijit-sengupta-_sidetripai-infrastructure-for-your-digital-activity-7319620755267174402-QlKz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACYJ9vgBd4lm3parhCrbDBKynsYPd6JfnUw)
+A hackathon-winning concept built around infrastructure for digital life, showing the product and execution side of how I like to build.
 
 ### [langgraph-cassette](https://github.com/arijit1/langgraph-cassette)
-Offline record-and-replay toolkit for LangGraph and LangChain LLM workflows. Built to make iteration faster, cheaper, and easier to debug.
+An open-source record-and-replay toolkit for LangGraph and LangChain workflows, built to make AI iteration faster, cheaper, and easier to debug.
 
 ### [plant-biosignal](https://github.com/arijit1/plant-biosignal)
-An applied project exploring plant biosignal data and signal-driven experimentation through code, hardware-facing workflows, and analysis.
+A cross-domain experiment around plant biosignals that blends curiosity, software, and hardware-backed exploration.
 
 ### [fuzzy-eureka](https://github.com/arijit1/fuzzy-eureka)
-A collection of paper-inspired AI experiments spanning LLM safety, RAG cache systems, and adaptive vector search prototypes.
+A sandbox for paper-inspired implementations across LLM safety, RAG caching, vector search, and other research-led ideas.
 
 ### [langchain-calculator-agent](https://github.com/arijit1/langchain-calculator-agent)
-An early practical agent project exploring tool use and LangChain-based orchestration patterns.
+An early agent project that reflects my long-running interest in practical tool use and AI-assisted workflows.
 
 ---
 
 ## Writing
 
 ### [Build Your First Local MCP Server and Connect It with Codex](https://medium.com/@sengupta.arijit84/build-your-first-local-mcp-server-and-connect-it-with-codex-068238b4f2cf)
-A practical Medium write-up where I break down how to build and connect a local MCP server step by step.
+A practical Medium guide where I break down how to build and connect a local MCP server step by step.
+
+I like documenting things that are useful in practice, especially when a topic is still new, messy, or underexplained.
 
 ---
 
@@ -87,12 +80,12 @@ A practical Medium write-up where I break down how to build and connect a local 
 
 ---
 
-## What I Like Building
+## How I Like To Work
 
-- AI developer tools that save iteration time
-- Agent workflows with better observability
-- Lightweight local servers and integrations
-- Clear examples and documentation for emerging tooling
+- Start with the problem, not loyalty to a language or stack
+- Build fast, learn from real usage, and keep refining
+- Move comfortably between product thinking, engineering, experimentation, and open source
+- Try ideas that feel slightly outside the obvious path
 
 ---
 
@@ -105,5 +98,5 @@ A practical Medium write-up where I break down how to build and connect a local 
 </p>
 
 <p align="center">
-  If you are working on AI tooling, agent systems, or applied experimentation, I am always happy to connect and learn from what you are building.
+  I am always up for connecting around product ideas, AI engineering, fast MVPs, consulting, or unusual experiments worth building.
 </p>
