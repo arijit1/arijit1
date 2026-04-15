@@ -14,6 +14,7 @@
   <a href="https://github.com/arijit1?tab=followers"><img src="https://img.shields.io/github/followers/arijit1?style=for-the-badge&color=0f766e&labelColor=0f172a" alt="GitHub followers" /></a>
   <a href="https://github.com/arijit1?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-AI%20Tooling-14b8a6?style=for-the-badge&labelColor=0f172a" alt="Open source AI tooling" /></a>
   <a href="https://www.linkedin.com/in/arijit-sengupta-/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&labelColor=0f172a" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@sengupta.arijit84/build-your-first-local-mcp-server-and-connect-it-with-codex-068238b4f2cf"><img src="https://img.shields.io/badge/Medium-Read%20Article-181818?style=for-the-badge&logo=medium&logoColor=white" alt="Medium article" /></a>
 </p>
 
 ---
@@ -66,6 +67,13 @@ An early practical agent project exploring tool use and LangChain-based orchestr
 
 ---
 
+## Writing
+
+### [Build Your First Local MCP Server and Connect It with Codex](https://medium.com/@sengupta.arijit84/build-your-first-local-mcp-server-and-connect-it-with-codex-068238b4f2cf)
+A practical Medium write-up where I break down how to build and connect a local MCP server step by step.
+
+---
+
 ## GitHub Snapshot
 
 <p align="center">
@@ -93,6 +101,7 @@ An early practical agent project exploring tool use and LangChain-based orchestr
 <p align="center">
   <a href="https://github.com/arijit1"><img src="https://img.shields.io/badge/GitHub-arijit1-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/arijit-sengupta-/"><img src="https://img.shields.io/badge/LinkedIn-Arijit%20Sengupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="https://medium.com/@sengupta.arijit84"><img src="https://img.shields.io/badge/Medium-Arijit%20Sengupta-181818?style=for-the-badge&logo=medium&logoColor=white" alt="Medium profile" /></a>
 </p>
 
 <p align="center">
