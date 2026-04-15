@@ -1,12 +1,12 @@
 <h1 align="center">Arijit Sengupta</h1>
 
 <p align="center">
-  Building practical AI developer tools, agent workflows, and applied research projects.
+  Exploring AI, building AI-powered platforms, and experimenting across industries without staying in one lane.
 </p>
 
 <p align="center">
   <a href="https://github.com/arijit1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F766E&center=true&vCenter=true&width=720&lines=Open+source+builder+focused+on+AI+tooling;Working+on+LangGraph%2C+LangChain%2C+and+applied+AI;Shipping+useful+developer+tools+one+repo+at+a+time" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F766E&center=true&vCenter=true&width=820&lines=Exploring+AI+and+building+AI-powered+platforms;Interested+in+consumer+AI+and+real-world+products;From+software+to+plant+biosignals%2C+I+keep+trying+new+things" alt="Typing intro" />
   </a>
 </p>
 
